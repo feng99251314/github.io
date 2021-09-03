@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hhufu.cn/2020/05/05/csdn-1/</loc>
+    
+    <lastmod>2021-09-03</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://hhufu.cn/2021/04/20/hello-world/</loc>
     
     <lastmod>2021-09-03</lastmod>
@@ -23,6 +30,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://hhufu.cn/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+    <lastmod>2021-09-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 
   
